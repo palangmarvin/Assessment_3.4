@@ -58,7 +58,7 @@ def build_graph():
 
 
 if __name__ == "__main__":
-    print("GABASA, ANGELITO L.| BSIT 2B")
+    print("PALANG, MARVIN PIERRE N.| BSIT 2G")
     input("Please press enter to continue...")
     graph = build_graph()
 
